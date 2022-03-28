@@ -7,7 +7,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: https://github.com/ZJStrinic/QR-code-component
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://6241c318f283d921d3ae5243--qrcodecomponent111111111111.netlify.app/
 
 ## My process 
 
